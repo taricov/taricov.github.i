@@ -1,2 +1,2 @@
-# http://weather-wizard.github.io
+# http://taricov.github.io
 Weather website
