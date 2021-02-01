@@ -1,2 +1,2 @@
-# http://taricov.github.io
+# http://taricov.gthub.io
 Weather website
